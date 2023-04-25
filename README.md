@@ -1,1 +1,1 @@
-# EOSTO NFTToken
+# EOSIO NFTToken
